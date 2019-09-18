@@ -1,0 +1,22 @@
+body {
+    font-family: serif;              /* standard-font  */
+    background-color: white;
+}
+h3 {
+    font-family: serif;
+}
+#typsnitt1{
+    font-family: Ubuntu, serif;       /* serif = reservval  */
+}
+
+#typsnitt2{
+    font-family: Poppins, serif;    /* serif = reservval  */
+    outline: 5px solid blue;
+}
+
+#typsnitt3{
+    font-family: Quicksand, serif;    /* serif = reservval  */
+    font-weight: bold;
+    font-size: 20px;
+    text-shadow: 3px -2px red;  /* burning: vågrätt, lodrätt, färg */
+}
